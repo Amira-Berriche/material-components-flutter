@@ -1,15 +1,6 @@
-<!--docs:
-title: "Material Button"
-layout: detail
-section: components
-excerpt: "A customizable button component with updated visual styles."
-iconId:
-path: /catalog/material-button/
--->
-
 # Buttons
 
-[Buttons](https://material.io/components/buttons/) allow users to take actions, and make choices, with a single tap.
+Buttons allow users to take actions, and make choices, with a single tap.
 
 ![Example Button with text learn more](assets/buttons/Buttons_hero.png)
 
